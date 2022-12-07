@@ -1,1 +1,1 @@
-# js_project___auto_text_effect_animation
+# Auto_Text_Effect_Animation
